@@ -1,7 +1,7 @@
 import Form from '@/components/Form'
 import React from 'react'
 
-const page = () => {
+const ExpressPage = () => {
   return (
     <div>
         <Form/>
@@ -9,4 +9,4 @@ const page = () => {
   )
 }
 
-export default page
+export default ExpressPage

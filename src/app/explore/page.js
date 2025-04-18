@@ -1,7 +1,7 @@
 import Explore from '@/components/Explore'
 import React from 'react'
 
-const page = () => {
+const ExplorePage = () => {
   return (
     <div className='h-[20vh]'>
         <Explore/>
@@ -9,4 +9,4 @@ const page = () => {
   )
 }
 
-export default page
+export default ExplorePage
